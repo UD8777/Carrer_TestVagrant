@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-29T22:52:32 IST" name="Default suite" finished-at="2022-11-29T22:53:58 IST" duration-ms="85697">
+    <groups>
+    </groups>
+    <test started-at="2022-11-29T22:52:32 IST" name="Default test" finished-at="2022-11-29T22:53:58 IST" duration-ms="85697">
+      <class name="com.qa.testlayer.Test_Execution_Country">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testlayer.Test_Execution_Country@4f6ee6e4]" started-at="2022-11-29T22:52:32 IST" name="start" finished-at="2022-11-29T22:52:32 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:com.qa.testlayer.Test_Execution_Country@4f6ee6e4]" started-at="2022-11-29T22:52:32 IST" name="setupbrowser" finished-at="2022-11-29T22:53:54 IST" duration-ms="82179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupbrowser -->
+        <test-method signature="verify_County()[pri:0, instance:com.qa.testlayer.Test_Execution_Country@4f6ee6e4]" started-at="2022-11-29T22:53:54 IST" name="verify_County" finished-at="2022-11-29T22:53:58 IST" duration-ms="3322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_County -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testlayer.Test_Execution_Country@4f6ee6e4]" started-at="2022-11-29T22:53:58 IST" name="tearDown" finished-at="2022-11-29T22:53:58 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testlayer.Test_Execution_Country@4f6ee6e4]" started-at="2022-11-29T22:53:58 IST" name="stop" finished-at="2022-11-29T22:53:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testlayer.Test_Execution_Country -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
